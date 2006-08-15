@@ -1,0 +1,10 @@
+This is just a simple C library I wrote to use FCPv2 from a C program.
+It's quite basic at the moment, however I plan to put another layer ontop of this library so that errors are handled automagicly, and string processing is done a little more efficiently.
+The API/ABI may well change, so don't depend on it too much.
+
+If you found a bug, have a question, or some sugestions, email me at jbit@jbit.net
+
+Have fun
+
+James Lee (jbit)
+
